@@ -9,7 +9,7 @@
 
 
 #Ссылки
-### [Yandex](http://yandex.ru"Привет-это Яндекс!)
+### [Yandex](http://yandex.ru"Привет-это Яндекс!")
 ### [Google](http://google.com)
 
 ## Код
